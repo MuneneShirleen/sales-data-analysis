@@ -27,16 +27,21 @@ revenue, monthly trends, and profitability.
 - March 2026 recorded the highest monthly revenue at KSh 695,900.
 - Mouse had the highest unit sales, with 37 units sold.
 
+
 ## Visualizations
 
 ### Revenue by Product
-![Revenue by Product](images/revenue_by_product.png)
+
+![Revenue by Product](./images/revenue_by_product.png)
 
 ### Monthly Revenue Trend
-![Monthly Revenue Trend](images/monthly_revenue_trend.png)
+
+![Monthly Revenue Trend](./images/monthly_revenue_trend.png)
 
 ### Profit by Category
-![Profit by Category](images/profit_by_category.png)
+
+![Profit by Category](./images/profit_by_category.png)
+
 
 ## Project Structure
 - `data/sales_data.csv`: Original simulated sales dataset
